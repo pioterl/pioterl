@@ -6,4 +6,4 @@ I also recently started to publish my Flutter code. But first of all, I'm learni
 
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on some kind of nice Flutter project
-- 📫 How to reach me: PM!
+- 📫 How to reach me: piotr.lisowski@outlook.com
